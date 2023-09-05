@@ -4,7 +4,7 @@ I have a Master's Degree in Applied Data Science (2023) and Applied Physics (201
 
 ## Philosophies:
 ### Data Science:
-When it comes to Data Science I am a strong proponent of using the CRISP-DM methodology.  The reason I favor the CRISP-DM method is the clear and necessary step of making sure that a Data Science Project or effort is firmly grounded in the Business Understanding.  Being able to make accurate predictions is great but it has to be tied to a business objective or the data is not reaching its full potential.
+I am a strong proponent of using the CRISP-DM methodology.  The reason I favor the CRISP-DM method is the clear and necessary step of making sure that a Data Science Project or effort is firmly grounded in the Business Understanding.  Being able to make accurate predictions is great but it has to be tied to a business objective or the data is not reaching its full potential.
 
 ### Programming:
 I believe doing so in a way that is ultimately efficient, reliable, and maintainable.  In addition, a programmer should play to the strengths of the particular language they are using.
@@ -19,5 +19,5 @@ The difference between a good physicist and a great physicist is this:  A good p
 ### Better Today / Even Better Tomorrow!:
 Constant improvement is essential in work and in life.  Being your best takes effort, discipline, and the desire to do better in the future.  
 
-# Closing Remarks:
+## Closing Remarks:
 I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects I completed.  
