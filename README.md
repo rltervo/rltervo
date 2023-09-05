@@ -1,6 +1,6 @@
 # WELCOME!
 I have a Master's Degree in Applied Data Science (2023) and Applied Physics (2014).  
-- This site has been designed to enable others to get a sense of the quality of my work.  If focuses primarily on the Applied Data Science but I did add a section for the 2014 Applied Physics Thesis.
+- This site has been designed to enable others to get a sense of the quality of my work.  If focuses primarily on the Applied Data Science but I did add a section for my 2014 Applied Physics Thesis as well.
 
 ## Philosophies:
 ### Data Science and Programming:
