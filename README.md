@@ -9,7 +9,7 @@ When it comes to Data Science I am a strong proponent of using the CRISP-DM meth
 ### Programming:
 I believe doing so in a way that is ultimately efficient, reliable, and maintainable.  In addition, a programmer should play to the strengths of the particular language they are using.
 - Efficient:  Using the minimal computational resources necessary to complete the computation.
-- Reliable:  Ensuring it works even if errors are in the data.  This often requires making sure the program can identify common errors in the data and
+- Reliable:  Ensuring it works even if errors are in the data.  This often requires making sure the program can identify common errors in the data, notify the user, and respond appropriately.  Minor errors, especially with human entry, are common so making sure the code doesn't crash for a minor mistake is important.  Ideally, the program identifies the minor erorr, notifies the user of the issue, and makes appropriate adjustments.
 - Maintainable:  Others should be able to read my code, understand what it is doing, how it is doing it, and make modifications as necessary.
 - Unique Program Stengths:  I have programmed in MatLab, Python, R, Java, and Visual Basic.  Each language has pros and cons and has unique features associated with it.  Those unique features offer advantages that should be fully taken advantage of.
 
