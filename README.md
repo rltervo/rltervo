@@ -14,10 +14,10 @@ I believe doing so in a way that is ultimately efficient, reliable, and maintain
 - Unique Program Stengths:  I have programmed in MatLab, Python, R, Java, and Visual Basic.  Each language has pros and cons and has unique features associated with it.  Those unique features offer advantages that should be fully taken advantage of.
 
 ### Better Today / Even Better Tomorrow!:
-Contant improvement is essential in work and in life.  Being your best self takes effort and discipline but is ultimately worth it.  
+Constant improvement is essential in work and in life.  Being your best takes effort, discipline, and the desire to do better.  
 
 ### Closing Remarks:
-I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects.
+I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects I completed.  
 
 
 
