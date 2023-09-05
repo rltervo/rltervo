@@ -1,9 +1,9 @@
 # WELCOME!
 I have a Master's Degree in Applied Data Science (2023) and Applied Physics (2014).  
-- This site has been designed to enable others to get a sense of the quality of my work.  If focuses primarily on the Applied Data Science but I did add a section for my 2014 Applied Physics Thesis as well.
+- This site has been designed to enable others to get a sense of the quality of my work.  If focuses primarily on Applied Data Science but I also included a section for my 2014 Applied Physics Thesis as well.
 
 ## Philosophies:
-### Data Science and Programming:
+### Data Science:
 When it comes to Data Science I am a strong proponent of using the CRISP-DM methodology.  The reason I favor the CRISP-DM method is the clear and necessary step of making sure that a Data Science Project or effort is firmly grounded in the Business Understanding.  Being able to make accurate predictions is great but it has to be tied to a business objective or the data is not reaching its full potential.
 
 ### Programming:
