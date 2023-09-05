@@ -21,14 +21,3 @@ Constant improvement is essential in work and in life.  Being your best takes ef
 
 # Closing Remarks:
 I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects I completed.  
-
-
-
-
-
-
-
-
-
-
-
