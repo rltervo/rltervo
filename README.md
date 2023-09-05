@@ -14,10 +14,10 @@ I believe doing so in a way that is ultimately efficient, reliable, and maintain
 - Unique Program Stengths:  I have programmed in MatLab, Python, R, Java, and Visual Basic.  Each language has pros and cons and has unique features associated with it.  Those unique features offer advantages that should be fully taken advantage of.
 
 ### Physics
-The difference between a great physicist and a good one is this.  A good physicist can see the difference between doing the program right and wrong.  A great physicist can see the difference bettween right and almost right.
+The difference between a good physicist and a great physicist is this:  A good physicist can see the difference between doing a problem right and doing it wrong.  A great physicist can see the difference between right and almost right.
 
 ### Better Today / Even Better Tomorrow!:
-Constant improvement is essential in work and in life.  Being your best takes effort, discipline, and the desire to do better.  
+Constant improvement is essential in work and in life.  Being your best takes effort, discipline, and the desire to do better in the future.  
 
 # Closing Remarks:
 I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects I completed.  
