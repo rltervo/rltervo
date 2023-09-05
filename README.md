@@ -16,7 +16,7 @@ I believe doing so in a way that is ultimately efficient, reliable, and maintain
 ### Better Today / Even Better Tomorrow!:
 Constant improvement is essential in work and in life.  Being your best takes effort, discipline, and the desire to do better.  
 
-### Closing Remarks:
+# Closing Remarks:
 I hope you find this page useful.  It has been organized via repositories.  Each repository gives details on the course, assignments, and significant projects I completed.  
 
 
